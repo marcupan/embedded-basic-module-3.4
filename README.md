@@ -3,7 +3,9 @@
 Домашнє завдання курсу Embedded Basic, варіант 1: плеєр через LEDC із фіксованим тіком, без `delay` і без задач FreeRTOS.
 Плата ESP32-S3-WROOM-1-N16R8, PlatformIO, Arduino.
 
-Відео: [demo.mp4](demo.mp4)
+![Плеєр мелодій на зумері](demo.webp)
+
+Відео повністю, зі звуком (21 с): [demo.mp4](demo.mp4)
 
 ## Схема
 
